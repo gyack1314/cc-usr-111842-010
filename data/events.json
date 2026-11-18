@@ -1,0 +1,33 @@
+[
+  {
+    "source": "lab-a",
+    "measurement_id": "M1",
+    "revision": 3,
+    "parent_revision": 2,
+    "op": "patch",
+    "fields": {
+      "experiment_id": "E2"
+    }
+  },
+  {
+    "source": "lab-a",
+    "measurement_id": "M1",
+    "revision": 2,
+    "parent_revision": 1,
+    "op": "patch",
+    "fields": {
+      "value": null
+    }
+  },
+  {
+    "kind": "compact_start",
+    "snapshot": "v2"
+  },
+  {
+    "source": "lab-a",
+    "measurement_id": "M1",
+    "revision": 4,
+    "parent_revision": 3,
+    "op": "delete"
+  }
+]

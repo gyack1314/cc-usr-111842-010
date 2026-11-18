@@ -1,0 +1,9 @@
+{
+  "row_identity": [
+    "source",
+    "measurement_id"
+  ],
+  "revision": "正整数，parent_revision必须指向同一行且小于本修订，不保证数字连续",
+  "patch": "fields只覆盖出现的键；null为显式清空；delete不含fields",
+  "snapshot": "base物理行的revision=1；events只描述未应用动作，不代表既有仓库快照"
+}

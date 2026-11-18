@@ -1,0 +1,12 @@
+{
+  "base": [
+    {
+      "source": "lab-a",
+      "measurement_id": "M1",
+      "revision": 1,
+      "experiment_id": "E1",
+      "value": "1.0",
+      "note": "initial"
+    }
+  ]
+}
